@@ -5,7 +5,7 @@
 █                                                                             █  
 ███████████████████████████████████████████████████████████████████████████████  
 
-In 2019, a critical vulnerability was found in the `ticket.com.br` API, allowing  
+In 2020, a critical vulnerability was found in the `ticket.com.br` API, allowing  
 sensitive CPF data extraction. The day the flaw was discovered, it was reported to  
 the responsible team. However, we have yet to receive any response or official  
 recognition on the issue.  
